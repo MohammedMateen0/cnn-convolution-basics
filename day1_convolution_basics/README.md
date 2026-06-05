@@ -353,7 +353,7 @@ Parameters = 320
 ## Files
 
 ```text
-week10_day1_convolution_basics/
+day1_convolution_basics/
 │
 ├── conv_output_shapes.py
 ├── conv_parameters.py
